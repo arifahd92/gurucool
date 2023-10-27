@@ -1,0 +1,16 @@
+.card-img-zoom {
+  overflow: hidden;
+  position: relative;
+  cursor: pointer;
+}
+
+.card-img-zoom img {
+  transition: transform 0.3s;
+}
+
+.card-img-zoom:hover img {
+  transform: scale(1.2);
+}
+.absolute {
+  top: 200px;
+}
