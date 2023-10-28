@@ -14,3 +14,7 @@
 .absolute {
   top: 200px;
 }
+.savedItem {
+  top: 90vh;
+  right: 25px;
+}
